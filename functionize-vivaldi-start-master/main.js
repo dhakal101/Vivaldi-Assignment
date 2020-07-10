@@ -9,26 +9,26 @@ document.getElementById('springBtn').addEventListener('click', setSpring);
 // Event Functions
 function setSummer() {
 
-     // Ivoke Summer Theme
+     // Invoke Summer Theme
     setSeason('summer', '#1BA848');
 }
 
 function setAutumn() {
 
-    // Ivoke Autumn Theme
+    // Invoke Autumn Theme
     setSeason('autumn', '#FE6732');
     
 }
 
 function setWinter() {
 
-    // Ivoke Winter Theme
+    // Invoke Winter Theme
     setSeason('winter', '#1C64B9')
 }
 
 function setSpring() {
     
-    // Ivoke Spring Theme
+    // Invoke Spring Theme
     setSeason('spring', '#0E94D1');
     
 }
